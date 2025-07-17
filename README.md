@@ -3,6 +3,9 @@
 ## Overview
 NutriBot is an intelligent web-based agent designed to provide personalized diet and fitness plans based on user activity, health, and lifestyle data. Leveraging feature engineering and machine learning clustering (KMeans), NutriBot analyzes your fitness metrics and generates tailored diet recommendations, as well as answers follow-up questions about your plan.
 
+<img width="1893" height="847" alt="image" src="https://github.com/user-attachments/assets/3e45e97c-556f-4d14-a0c6-7443bb212d61" />
+
+
 ## Features
 - **Personalized Diet Plans:** Get structured meal plans (breakfast, lunch, dinner, snacks) and daily calorie/macronutrient targets based on your fitness profile.
 - **Fitness Analysis:** Input your daily steps, distance, calories, activity breakdown, heart rate, sleep, weight, and BMI.
